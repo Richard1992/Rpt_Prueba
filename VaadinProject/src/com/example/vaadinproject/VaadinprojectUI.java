@@ -35,5 +35,8 @@ public class VaadinprojectUI extends UI {
 		});
 		layout.addComponent(button);
 	}
-
+	public void metodo ()
+	{
+	}
+	
 }
